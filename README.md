@@ -1,3 +1,7 @@
+NOTE THAT THIS IS PRE_RELEASE 
+ the idea of this repository is to include Linear algebra essentials for cpp
+ this project also considered a object orriantation practice please shoot me a feedback if there is any concerns :)
+
 Features
 Matrix Operations: Addition, subtraction, multiplication, and transposition.
 Vector Operations: Dot product, cross product, and normalization.
